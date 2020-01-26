@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Bakhuzet
+tagline:             'Random short stories'
+description:         'Short stories and storycrafting.'
+url:                 http://bakhuzet.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Joshua Semple
+  github:            https://github.com/JoshuaSemple
+  url:               http://bakhuzet.github.io
+  email:
+
+# Custom vars
+version:             1.0.0
