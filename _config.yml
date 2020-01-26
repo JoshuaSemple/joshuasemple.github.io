@@ -7,8 +7,8 @@ permalink:           pretty
 title:               Bakhuzet
 tagline:             'Random short stories'
 description:         'Short stories and storycrafting.'
-url:                 https://joshuasemple.github.io/bakhuzet.github.io/
-baseurl:             ''
+url:                 https://joshuasemple.github.io/
+baseurl:             'bakhuzet.github.io/'
 paginate:            5
 
 # About/contact
