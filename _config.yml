@@ -6,17 +6,19 @@ permalink:           pretty
 # Setup
 title:               Bakhuzet
 tagline:             'Random short stories'
-description:         'Short stories and storycrafting.'
-url:                 https://joshuasemple.github.io/
-baseurl:             'bakhuzet.github.io/'
+description:         'Short stories and ideas'
+url:                 http://joshuasemple.github.io
+baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              Joshua Semple
   github:            https://github.com/JoshuaSemple
-  url:               http://bakhuzet.github.io
+  url:               http://joshuasemple.github.io
   email:
+
+plugins: [jekyll-paginate]
 
 # Custom vars
 version:             1.0.0
