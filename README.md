@@ -1,6 +1,6 @@
-# OdinsPlasmaRifle
+# JoshuaSemple
 
-Some random knowledge, a couple experiments and quite a lot of stupid ideas by Joshua van Besouw.
+Just a blog type site to dump short stories on
 
 ## Documentation
 
